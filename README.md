@@ -1,7 +1,7 @@
 # Welcome :D
 ### Paiman's Windows Rice Repo
 
-
+> all you need to do is open your command line of choice and copy these command
 
 -------------------------------------------------------------------
 ## install choclatey
@@ -87,9 +87,9 @@ Install-Module PSReadLine
 winget install --id=nepnep.neofetch-win  -e
 ```
 
-terminal backup restore path (win+r): `%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState`
+> terminal backup restore path (win+r): `%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState`
 
-terminal profile command: `nvim $PROFILE`
+> terminal profile command: `nvim $PROFILE`
 
 -------------------------------------------------------------------
 ## install powertoys
