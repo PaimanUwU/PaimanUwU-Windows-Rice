@@ -1,0 +1,104 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.31/schema.json",
+  "app_specific_configuration_path": "$Env:USERPROFILE/applications.json",
+  "window_hiding_behaviour": "Cloak",
+  "cross_monitor_move_behaviour": "Insert",
+  "default_workspace_padding": 2,
+  "default_container_padding": 2,
+  "border": true,
+  "border_width": 5,
+  "border_offset": -1,
+  "theme": {
+    "palette": "Base16",
+    "name": "Ashes",
+    "unfocused_border": "Base03",
+    "bar_accent": "Base0D"
+  },
+  "stackbar": {
+    "height": 40,
+    "mode": "OnStack",
+    "tabs": {
+      "width": 300
+    }
+  },
+  "minimum_window_width": 0,
+  "minimum_window_height": 0,
+  "resize_delta": 50,
+  "window_container_behaviour": "Create",
+  "float_override": false,
+  "cross_boundary_behaviour": "Monitor",
+  "unmanaged_window_operation_behaviour": "Op",
+  "mouse_follows_focus": true,
+  "border_colours": {
+    "single": {
+      "r": 174,
+      "g": 149,
+      "b": 199
+    },
+    "stack": {
+      "r": 149,
+      "g": 199,
+      "b": 174
+    },
+    "monocle": {
+      "r": 199,
+      "g": 149,
+      "b": 149
+    },
+    "floating": {
+      "r": 199,
+      "g": 199,
+      "b": 149
+    },
+    "unfocused": {
+      "r": 116,
+      "g": 124,
+      "b": 132
+    }
+  },
+  "border_style": "System",
+  "border_implementation": "Komorebi",
+  "transparency": false,
+  "transparency_alpha": 200,
+  "monitors": [
+    {
+      "workspaces": [
+        {
+          "name": "I",
+          "layout": "BSP"
+        },
+        {
+          "name": "II",
+          "layout": "VerticalStack"
+        },
+        {
+          "name": "III",
+          "layout": "VerticalStack"
+        },
+        {
+          "name": "IV",
+          "layout": "VerticalStack"
+        },
+        {
+          "name": "V",
+          "layout": "VerticalStack"
+        },
+        {
+          "name": "VI",
+          "layout": "VerticalStack"
+        },
+        {
+          "name": "VII",
+          "layout": "VerticalStack"
+        }
+      ]
+    }
+  ],
+  "animation": {
+    "enabled": true,
+    "duration": 700,
+    "framerate": 60,
+    "type": "Movement",
+    "style": "EaseOutElastic"
+  }
+}

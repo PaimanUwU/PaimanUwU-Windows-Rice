@@ -1,0 +1,977 @@
+2024-12-21 18:13:02 INFO log.py:21: Yasb
+2024-12-21 18:13:02 INFO config.py:59: Created default config file at C:\Users\adiai\.config\yasb\config.yaml
+2024-12-21 18:13:02 INFO config.py:73: Created default stylesheet at C:\Users\adiai\.config\yasb\styles.css
+2024-12-21 18:13:03 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 18:13:09 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:13:09.254670
+2024-12-21 18:13:09 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 18:13:12 INFO event_listener.py:52: Created named pipe yasb-2f0981bf-bf84-11ef-9867-2cdb078575ef
+2024-12-21 18:13:12 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-2f0981bf-bf84-11ef-9867-2cdb078575ef
+2024-12-21 18:13:12 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 18:13:12 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 18:13:12 DEBUG _windows.py:192: Thread started
+2024-12-21 18:13:12 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-2f0981bf-bf84-11ef-9867-2cdb078575ef
+2024-12-21 18:15:39 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-21 18:15:39 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-21 18:15:44 INFO event_listener.py:52: Created named pipe yasb-2f0981bf-bf84-11ef-9867-2cdb078575ef
+2024-12-21 18:15:44 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-2f0981bf-bf84-11ef-9867-2cdb078575ef
+2024-12-21 18:15:44 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-12-21 18:16:05 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-2f0981bf-bf84-11ef-9867-2cdb078575ef
+2024-12-21 18:19:17 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-21 18:19:17 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-21 18:19:22 INFO event_listener.py:52: Created named pipe yasb-2f0981bf-bf84-11ef-9867-2cdb078575ef
+2024-12-21 18:19:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-2f0981bf-bf84-11ef-9867-2cdb078575ef
+2024-12-21 18:19:22 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-12-21 18:19:32 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-2f0981bf-bf84-11ef-9867-2cdb078575ef
+2024-12-21 18:23:09 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:23:09.254836
+2024-12-21 18:24:02 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:24:02 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:24:03 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:24:03 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:24:03 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:24:03 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:24:03 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:24:05 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:24:05 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:24:05 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:26:50 INFO tray.py:198: Reloading Application...
+2024-12-21 18:26:51 INFO log.py:21: Yasb
+2024-12-21 18:26:51 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:26:51 ERROR config.py:145: User config file could not be loaded. Exiting Application.
+2024-12-21 18:27:07 INFO log.py:21: Yasb
+2024-12-21 18:27:07 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:27:07 ERROR config.py:145: User config file could not be loaded. Exiting Application.
+2024-12-21 18:27:33 INFO log.py:21: Yasb
+2024-12-21 18:27:33 ERROR config.py:99: The file 'C:\Users\adiai\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+expected '<document start>', but found '<block mapping start>'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 3, column 1
+2024-12-21 18:27:33 ERROR config.py:145: User config file could not be loaded. Exiting Application.
+2024-12-21 18:28:48 INFO log.py:21: Yasb
+2024-12-21 18:28:48 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 18:28:48 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:28:48.807143
+2024-12-21 18:28:48 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 18:28:50 INFO event_listener.py:52: Created named pipe yasb-5ecd781f-bf86-11ef-8ce0-2cdb078575ef
+2024-12-21 18:28:50 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5ecd781f-bf86-11ef-8ce0-2cdb078575ef
+2024-12-21 18:28:50 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 18:28:50 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 18:28:50 DEBUG _windows.py:192: Thread started
+2024-12-21 18:28:51 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-5ecd781f-bf86-11ef-8ce0-2cdb078575ef
+2024-12-21 18:29:47 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-21 18:29:47 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-21 18:29:52 INFO event_listener.py:52: Created named pipe yasb-5ecd781f-bf86-11ef-8ce0-2cdb078575ef
+2024-12-21 18:29:52 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5ecd781f-bf86-11ef-8ce0-2cdb078575ef
+2024-12-21 18:29:52 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-12-21 18:30:02 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-5ecd781f-bf86-11ef-8ce0-2cdb078575ef
+2024-12-21 18:31:31 INFO tray.py:198: Reloading Application...
+2024-12-21 18:31:31 INFO log.py:21: Yasb
+2024-12-21 18:31:31 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 18:31:32 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:31:32.131795
+2024-12-21 18:31:32 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 18:31:32 INFO event_listener.py:52: Created named pipe yasb-bf5e1ac4-bf86-11ef-bccc-2cdb078575ef
+2024-12-21 18:31:32 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-bf5e1ac4-bf86-11ef-bccc-2cdb078575ef
+2024-12-21 18:31:32 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 18:31:32 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 18:31:32 DEBUG _windows.py:192: Thread started
+2024-12-21 18:31:33 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-bf5e1ac4-bf86-11ef-bccc-2cdb078575ef
+2024-12-21 18:31:36 INFO log.py:21: Yasb
+2024-12-21 18:31:36 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 18:31:37 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:31:37.116716
+2024-12-21 18:31:37 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 18:31:37 INFO event_listener.py:52: Created named pipe yasb-c253c970-bf86-11ef-9794-2cdb078575ef
+2024-12-21 18:31:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c253c970-bf86-11ef-9794-2cdb078575ef
+2024-12-21 18:31:37 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 18:31:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 18:31:37 DEBUG _windows.py:192: Thread started
+2024-12-21 18:31:37 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c253c970-bf86-11ef-9794-2cdb078575ef
+2024-12-21 18:38:45 INFO tray.py:198: Reloading Application...
+2024-12-21 18:38:45 INFO log.py:21: Yasb
+2024-12-21 18:38:46 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 18:38:46 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:38:46.603682
+2024-12-21 18:38:46 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 18:38:47 INFO event_listener.py:52: Created named pipe yasb-c29c060b-bf87-11ef-8d84-2cdb078575ef
+2024-12-21 18:38:47 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c29c060b-bf87-11ef-8d84-2cdb078575ef
+2024-12-21 18:38:47 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 18:38:47 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 18:38:47 DEBUG _windows.py:192: Thread started
+2024-12-21 18:38:48 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c29c060b-bf87-11ef-8d84-2cdb078575ef
+2024-12-21 18:39:03 INFO tray.py:198: Reloading Application...
+2024-12-21 18:39:03 INFO log.py:21: Yasb
+2024-12-21 18:39:04 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 18:39:04 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:39:04.502272
+2024-12-21 18:39:04 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 18:39:05 INFO event_listener.py:52: Created named pipe yasb-cd00eac3-bf87-11ef-9f37-2cdb078575ef
+2024-12-21 18:39:05 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-cd00eac3-bf87-11ef-9f37-2cdb078575ef
+2024-12-21 18:39:05 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 18:39:05 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 18:39:05 DEBUG _windows.py:192: Thread started
+2024-12-21 18:39:05 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-cd00eac3-bf87-11ef-9f37-2cdb078575ef
+2024-12-21 18:39:19 INFO tray.py:157: Created shortcut at C:\Users\adiai\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\yasb.lnk
+2024-12-21 18:41:34 INFO tray.py:198: Reloading Application...
+2024-12-21 18:41:36 INFO log.py:21: Yasb
+2024-12-21 18:41:36 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 18:41:36 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:41:36.630429
+2024-12-21 18:41:36 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 18:41:37 INFO event_listener.py:52: Created named pipe yasb-27ad8868-bf88-11ef-870b-2cdb078575ef
+2024-12-21 18:41:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-27ad8868-bf88-11ef-870b-2cdb078575ef
+2024-12-21 18:41:37 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 18:41:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 18:41:37 DEBUG _windows.py:192: Thread started
+2024-12-21 18:41:37 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-27ad8868-bf88-11ef-870b-2cdb078575ef
+2024-12-21 18:41:46 INFO log.py:21: Yasb
+2024-12-21 18:41:46 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 18:41:46 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:41:46.592586
+2024-12-21 18:41:46 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 18:41:47 INFO event_listener.py:52: Created named pipe yasb-2d9ccd9c-bf88-11ef-82ac-2cdb078575ef
+2024-12-21 18:41:47 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-2d9ccd9c-bf88-11ef-82ac-2cdb078575ef
+2024-12-21 18:41:47 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 18:41:47 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 18:41:47 DEBUG _windows.py:192: Thread started
+2024-12-21 18:41:47 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-2d9ccd9c-bf88-11ef-82ac-2cdb078575ef
+2024-12-21 18:42:58 INFO tray.py:198: Reloading Application...
+2024-12-21 18:42:59 INFO log.py:21: Yasb
+2024-12-21 18:42:59 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 18:43:00 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:43:00.089153
+2024-12-21 18:43:00 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 18:43:00 INFO event_listener.py:52: Created named pipe yasb-5973f637-bf88-11ef-98f0-2cdb078575ef
+2024-12-21 18:43:00 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5973f637-bf88-11ef-98f0-2cdb078575ef
+2024-12-21 18:43:00 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 18:43:00 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 18:43:00 DEBUG _windows.py:192: Thread started
+2024-12-21 18:43:01 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-5973f637-bf88-11ef-98f0-2cdb078575ef
+2024-12-21 18:44:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: hex(161e20) [23:5: background-color]
+2024-12-21 18:44:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: hex(161e20) [46:5: background-color]
+2024-12-21 18:44:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: hex(161e20) [121:5: background-color]
+2024-12-21 18:44:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: hex(161e20) [243:5: background-color]
+2024-12-21 18:44:26 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 18:44:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: hex(161e20) [23:5: background-color]
+2024-12-21 18:44:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: hex(161e20) [46:5: background-color]
+2024-12-21 18:44:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: hex(161e20) [121:5: background-color]
+2024-12-21 18:44:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: hex(161e20) [243:5: background-color]
+2024-12-21 18:44:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: hex(161e20) [23:5: background-color]
+2024-12-21 18:44:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: hex(161e20) [46:5: background-color]
+2024-12-21 18:44:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: hex(161e20) [121:5: background-color]
+2024-12-21 18:44:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: hex(161e20) [243:5: background-color]
+2024-12-21 18:44:53 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 18:45:13 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 18:45:23 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 18:45:27 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 18:46:17 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 18:46:30 ERROR config.py:116: The file 'C:\Users\adiai\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+Property: No ":" after name found: s
+ [32:20: 
+]
+2024-12-21 18:46:31 ERROR config.py:116: The file 'C:\Users\adiai\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+Property: No ":" after name found: s
+ [32:20: 
+]
+2024-12-21 18:46:31 ERROR config.py:116: The file 'C:\Users\adiai\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+Property: No ":" after name found: s
+ [32:20: 
+]
+2024-12-21 18:47:16 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 18:47:21 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 18:48:21 INFO log.py:21: Yasb
+2024-12-21 18:48:21 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 18:48:21 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:48:21.701004
+2024-12-21 18:48:21 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 18:48:22 INFO event_listener.py:52: Created named pipe yasb-1924d0d4-bf89-11ef-8926-2cdb078575ef
+2024-12-21 18:48:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1924d0d4-bf89-11ef-8926-2cdb078575ef
+2024-12-21 18:48:22 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 18:48:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 18:48:22 DEBUG _windows.py:192: Thread started
+2024-12-21 18:48:22 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1924d0d4-bf89-11ef-8926-2cdb078575ef
+2024-12-21 18:48:32 INFO log.py:21: Yasb
+2024-12-21 18:48:32 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 18:48:33 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:48:33.021497
+2024-12-21 18:48:33 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 18:48:33 INFO event_listener.py:52: Created named pipe yasb-1fe77045-bf89-11ef-bef3-2cdb078575ef
+2024-12-21 18:48:33 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1fe77045-bf89-11ef-bef3-2cdb078575ef
+2024-12-21 18:48:33 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 18:48:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 18:48:33 DEBUG _windows.py:192: Thread started
+2024-12-21 18:48:33 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1fe77045-bf89-11ef-bef3-2cdb078575ef
+2024-12-21 18:48:46 INFO log.py:21: Yasb
+2024-12-21 18:48:47 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 18:48:47 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:48:47.469163
+2024-12-21 18:48:47 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 18:48:48 INFO event_listener.py:52: Created named pipe yasb-287a2783-bf89-11ef-969b-2cdb078575ef
+2024-12-21 18:48:48 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-287a2783-bf89-11ef-969b-2cdb078575ef
+2024-12-21 18:48:48 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 18:48:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 18:48:48 DEBUG _windows.py:192: Thread started
+2024-12-21 18:48:48 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-287a2783-bf89-11ef-969b-2cdb078575ef
+2024-12-21 18:50:11 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-21 18:50:11 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-21 18:50:16 INFO event_listener.py:52: Created named pipe yasb-287a2783-bf89-11ef-969b-2cdb078575ef
+2024-12-21 18:50:16 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-287a2783-bf89-11ef-969b-2cdb078575ef
+2024-12-21 18:50:16 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-287a2783-bf89-11ef-969b-2cdb078575ef
+2024-12-21 18:50:51 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-21 18:50:51 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-21 18:50:56 INFO event_listener.py:52: Created named pipe yasb-287a2783-bf89-11ef-969b-2cdb078575ef
+2024-12-21 18:50:56 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-287a2783-bf89-11ef-969b-2cdb078575ef
+2024-12-21 18:50:56 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-12-21 18:51:27 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-287a2783-bf89-11ef-969b-2cdb078575ef
+2024-12-21 18:51:48 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-21 18:51:48 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-21 18:51:53 INFO event_listener.py:52: Created named pipe yasb-287a2783-bf89-11ef-969b-2cdb078575ef
+2024-12-21 18:51:53 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-287a2783-bf89-11ef-969b-2cdb078575ef
+2024-12-21 18:51:54 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-287a2783-bf89-11ef-969b-2cdb078575ef
+2024-12-21 18:58:47 INFO weather.py:158: Fetched new weather data at 2024-12-21 18:58:47.473380
+2024-12-21 19:08:47 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:08:47.474889
+2024-12-21 19:18:47 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:18:47.476394
+2024-12-21 19:28:36 INFO log.py:21: Yasb
+2024-12-21 19:28:37 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:28:37 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:28:37.477964
+2024-12-21 19:28:37 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:28:38 INFO event_listener.py:52: Created named pipe yasb-b94b4dd1-bf8e-11ef-ba8f-2cdb078575ef
+2024-12-21 19:28:38 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-b94b4dd1-bf8e-11ef-ba8f-2cdb078575ef
+2024-12-21 19:28:38 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:28:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:28:38 DEBUG _windows.py:192: Thread started
+2024-12-21 19:28:38 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-b94b4dd1-bf8e-11ef-ba8f-2cdb078575ef
+2024-12-21 19:30:18 INFO log.py:21: Yasb
+2024-12-21 19:30:18 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:30:18.971307
+2024-12-21 19:30:19 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:30:19 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:30:19 INFO event_listener.py:52: Created named pipe yasb-f58ad315-bf8e-11ef-a118-2cdb078575ef
+2024-12-21 19:30:19 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f58ad315-bf8e-11ef-a118-2cdb078575ef
+2024-12-21 19:30:19 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:30:19 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:30:19 DEBUG _windows.py:192: Thread started
+2024-12-21 19:30:19 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f58ad315-bf8e-11ef-a118-2cdb078575ef
+2024-12-21 19:31:12 INFO log.py:21: Yasb
+2024-12-21 19:31:12 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:31:12 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:31:12.790808
+2024-12-21 19:31:12 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:31:13 INFO event_listener.py:52: Created named pipe yasb-15a69eb4-bf8f-11ef-b43e-2cdb078575ef
+2024-12-21 19:31:13 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-15a69eb4-bf8f-11ef-b43e-2cdb078575ef
+2024-12-21 19:31:13 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:31:13 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:31:13 DEBUG _windows.py:192: Thread started
+2024-12-21 19:31:13 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-15a69eb4-bf8f-11ef-b43e-2cdb078575ef
+2024-12-21 19:36:47 INFO log.py:21: Yasb
+2024-12-21 19:36:48 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:36:48 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:36:48.104483
+2024-12-21 19:36:48 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:36:49 INFO event_listener.py:52: Created named pipe yasb-ddb9ee85-bf8f-11ef-806d-2cdb078575ef
+2024-12-21 19:36:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-ddb9ee85-bf8f-11ef-806d-2cdb078575ef
+2024-12-21 19:36:49 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:36:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:36:49 DEBUG _windows.py:192: Thread started
+2024-12-21 19:36:49 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-ddb9ee85-bf8f-11ef-806d-2cdb078575ef
+2024-12-21 19:38:12 INFO log.py:21: Yasb
+2024-12-21 19:38:12 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:38:12 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:38:12.594255
+2024-12-21 19:38:12 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:38:13 INFO event_listener.py:52: Created named pipe yasb-0fd20ffa-bf90-11ef-96c5-2cdb078575ef
+2024-12-21 19:38:13 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-0fd20ffa-bf90-11ef-96c5-2cdb078575ef
+2024-12-21 19:38:13 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:38:13 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:38:13 DEBUG _windows.py:192: Thread started
+2024-12-21 19:38:13 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-0fd20ffa-bf90-11ef-96c5-2cdb078575ef
+2024-12-21 19:38:40 INFO log.py:21: Yasb
+2024-12-21 19:38:41 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:38:41 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:38:41.336999
+2024-12-21 19:38:41 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:38:42 INFO event_listener.py:52: Created named pipe yasb-20fd6163-bf90-11ef-bce5-2cdb078575ef
+2024-12-21 19:38:42 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-20fd6163-bf90-11ef-bce5-2cdb078575ef
+2024-12-21 19:38:42 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:38:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:38:42 DEBUG _windows.py:192: Thread started
+2024-12-21 19:38:42 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-20fd6163-bf90-11ef-bce5-2cdb078575ef
+2024-12-21 19:38:54 INFO log.py:21: Yasb
+2024-12-21 19:38:54 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:38:54 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:38:54.608845
+2024-12-21 19:38:54 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:38:55 INFO event_listener.py:52: Created named pipe yasb-28d7cd7d-bf90-11ef-a249-2cdb078575ef
+2024-12-21 19:38:55 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-28d7cd7d-bf90-11ef-a249-2cdb078575ef
+2024-12-21 19:38:55 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:38:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:38:55 DEBUG _windows.py:192: Thread started
+2024-12-21 19:38:55 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-28d7cd7d-bf90-11ef-a249-2cdb078575ef
+2024-12-21 19:39:34 INFO log.py:21: Yasb
+2024-12-21 19:39:35 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:39:35 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:39:35.277145
+2024-12-21 19:39:35 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:39:36 INFO event_listener.py:52: Created named pipe yasb-4114278f-bf90-11ef-8537-2cdb078575ef
+2024-12-21 19:39:36 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-4114278f-bf90-11ef-8537-2cdb078575ef
+2024-12-21 19:39:36 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:39:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:39:36 DEBUG _windows.py:192: Thread started
+2024-12-21 19:39:36 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-4114278f-bf90-11ef-8537-2cdb078575ef
+2024-12-21 19:41:09 INFO log.py:21: Yasb
+2024-12-21 19:41:09 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:41:09 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:41:09.722529
+2024-12-21 19:41:09 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:41:10 INFO event_listener.py:52: Created named pipe yasb-796216eb-bf90-11ef-bb4e-2cdb078575ef
+2024-12-21 19:41:10 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-796216eb-bf90-11ef-bb4e-2cdb078575ef
+2024-12-21 19:41:10 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:41:10 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:41:10 DEBUG _windows.py:192: Thread started
+2024-12-21 19:41:10 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-796216eb-bf90-11ef-bb4e-2cdb078575ef
+2024-12-21 19:42:03 INFO log.py:21: Yasb
+2024-12-21 19:42:04 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:42:04 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:42:04.080063
+2024-12-21 19:42:04 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:42:04 INFO event_listener.py:52: Created named pipe yasb-99cfd6b5-bf90-11ef-8f71-2cdb078575ef
+2024-12-21 19:42:04 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-99cfd6b5-bf90-11ef-8f71-2cdb078575ef
+2024-12-21 19:42:04 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:42:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:42:04 DEBUG _windows.py:192: Thread started
+2024-12-21 19:42:04 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-99cfd6b5-bf90-11ef-8f71-2cdb078575ef
+2024-12-21 19:44:56 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 19:46:50 INFO log.py:21: Yasb
+2024-12-21 19:46:50 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:46:50 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:46:50.717348
+2024-12-21 19:46:50 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:46:51 INFO event_listener.py:52: Created named pipe yasb-44a2e897-bf91-11ef-9b84-2cdb078575ef
+2024-12-21 19:46:51 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-44a2e897-bf91-11ef-9b84-2cdb078575ef
+2024-12-21 19:46:51 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:46:51 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:46:51 DEBUG _windows.py:192: Thread started
+2024-12-21 19:46:51 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-44a2e897-bf91-11ef-9b84-2cdb078575ef
+2024-12-21 19:47:11 INFO log.py:21: Yasb
+2024-12-21 19:47:11 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:47:11 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:47:11.830285
+2024-12-21 19:47:11 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:47:12 INFO event_listener.py:52: Created named pipe yasb-513c15b4-bf91-11ef-9d4c-2cdb078575ef
+2024-12-21 19:47:12 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-513c15b4-bf91-11ef-9d4c-2cdb078575ef
+2024-12-21 19:47:12 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:47:12 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:47:12 DEBUG _windows.py:192: Thread started
+2024-12-21 19:47:12 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-513c15b4-bf91-11ef-9d4c-2cdb078575ef
+2024-12-21 19:47:33 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 19:51:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 1 [18:5: padding]
+2024-12-21 19:51:57 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 19:51:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 1 [18:5: padding]
+2024-12-21 19:51:59 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 1 [18:5: padding]
+2024-12-21 19:51:59 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 1 [18:5: padding]
+2024-12-21 19:52:02 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 19:52:19 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 19:52:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 19:52:40 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 19:52:47 INFO tray.py:198: Reloading Application...
+2024-12-21 19:52:48 INFO log.py:21: Yasb
+2024-12-21 19:52:48 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:52:48 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:52:48.914452
+2024-12-21 19:52:48 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:52:49 INFO event_listener.py:52: Created named pipe yasb-1a26b6f6-bf92-11ef-810c-2cdb078575ef
+2024-12-21 19:52:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1a26b6f6-bf92-11ef-810c-2cdb078575ef
+2024-12-21 19:52:49 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:52:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:52:49 DEBUG _windows.py:192: Thread started
+2024-12-21 19:52:49 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1a26b6f6-bf92-11ef-810c-2cdb078575ef
+2024-12-21 19:55:45 INFO log.py:21: Yasb
+2024-12-21 19:55:45 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:55:45 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:55:45.736474
+2024-12-21 19:55:45 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-12-21 19:55:46 INFO event_listener.py:52: Created named pipe yasb-8384aa20-bf92-11ef-a0f4-2cdb078575ef
+2024-12-21 19:55:46 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-8384aa20-bf92-11ef-a0f4-2cdb078575ef
+2024-12-21 19:55:46 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:55:46 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:55:46 DEBUG _windows.py:192: Thread started
+2024-12-21 19:55:46 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-8384aa20-bf92-11ef-a0f4-2cdb078575ef
+2024-12-21 19:57:35 INFO log.py:21: Yasb
+2024-12-21 19:57:35 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:57:35.603818
+2024-12-21 19:57:35 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:57:36 INFO event_listener.py:52: Created named pipe yasb-c5209e0e-bf92-11ef-b322-2cdb078575ef
+2024-12-21 19:57:36 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c5209e0e-bf92-11ef-b322-2cdb078575ef
+2024-12-21 19:57:36 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:57:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:57:36 DEBUG _windows.py:192: Thread started
+2024-12-21 19:57:36 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c5209e0e-bf92-11ef-b322-2cdb078575ef
+2024-12-21 19:58:31 INFO log.py:21: Yasb
+2024-12-21 19:58:31 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:58:31.455717
+2024-12-21 19:58:31 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:58:32 INFO event_listener.py:52: Created named pipe yasb-e6751ea7-bf92-11ef-80ab-2cdb078575ef
+2024-12-21 19:58:32 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e6751ea7-bf92-11ef-80ab-2cdb078575ef
+2024-12-21 19:58:32 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:58:32 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:58:32 DEBUG _windows.py:192: Thread started
+2024-12-21 19:58:32 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-e6751ea7-bf92-11ef-80ab-2cdb078575ef
+2024-12-21 19:59:53 INFO log.py:21: Yasb
+2024-12-21 19:59:54 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 19:59:54 INFO weather.py:158: Fetched new weather data at 2024-12-21 19:59:54.379331
+2024-12-21 19:59:55 INFO event_listener.py:52: Created named pipe yasb-17d1ceaa-bf93-11ef-8ce2-2cdb078575ef
+2024-12-21 19:59:55 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-17d1ceaa-bf93-11ef-8ce2-2cdb078575ef
+2024-12-21 19:59:55 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 19:59:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 19:59:55 DEBUG _windows.py:192: Thread started
+2024-12-21 19:59:55 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-17d1ceaa-bf93-11ef-8ce2-2cdb078575ef
+2024-12-21 20:00:24 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:00:28 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:01:58 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:03:35 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:04:26 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:06:04 INFO log.py:21: Yasb
+2024-12-21 20:06:05 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:06:05 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:06:05.134676
+2024-12-21 20:06:06 INFO event_listener.py:52: Created named pipe yasb-f50b0317-bf93-11ef-9f8c-2cdb078575ef
+2024-12-21 20:06:06 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f50b0317-bf93-11ef-9f8c-2cdb078575ef
+2024-12-21 20:06:06 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:06:06 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:06:06 DEBUG _windows.py:192: Thread started
+2024-12-21 20:06:06 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f50b0317-bf93-11ef-9f8c-2cdb078575ef
+2024-12-21 20:06:59 INFO log.py:21: Yasb
+2024-12-21 20:07:00 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:07:00 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:07:00.208135
+2024-12-21 20:07:01 INFO event_listener.py:52: Created named pipe yasb-15c6b06c-bf94-11ef-bfdc-2cdb078575ef
+2024-12-21 20:07:01 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-15c6b06c-bf94-11ef-bfdc-2cdb078575ef
+2024-12-21 20:07:01 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:07:01 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:07:01 DEBUG _windows.py:192: Thread started
+2024-12-21 20:07:01 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-15c6b06c-bf94-11ef-bfdc-2cdb078575ef
+2024-12-21 20:08:13 INFO log.py:21: Yasb
+2024-12-21 20:08:14 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:08:14 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:08:14.204780
+2024-12-21 20:08:15 INFO event_listener.py:52: Created named pipe yasb-41e18516-bf94-11ef-978c-2cdb078575ef
+2024-12-21 20:08:15 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-41e18516-bf94-11ef-978c-2cdb078575ef
+2024-12-21 20:08:15 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:08:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:08:15 DEBUG _windows.py:192: Thread started
+2024-12-21 20:08:15 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-41e18516-bf94-11ef-978c-2cdb078575ef
+2024-12-21 20:08:46 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:08:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:09:17 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:09:40 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:09:53 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:10:55 INFO log.py:21: Yasb
+2024-12-21 20:10:56 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:10:56 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:10:56.100929
+2024-12-21 20:10:57 INFO event_listener.py:52: Created named pipe yasb-a276730c-bf94-11ef-a3d5-2cdb078575ef
+2024-12-21 20:10:57 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a276730c-bf94-11ef-a3d5-2cdb078575ef
+2024-12-21 20:10:57 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:10:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:10:57 DEBUG _windows.py:192: Thread started
+2024-12-21 20:10:57 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a276730c-bf94-11ef-a3d5-2cdb078575ef
+2024-12-21 20:11:06 INFO log.py:21: Yasb
+2024-12-21 20:11:06 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:11:06 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:11:06.917703
+2024-12-21 20:11:08 INFO event_listener.py:52: Created named pipe yasb-a8ce3870-bf94-11ef-91f7-2cdb078575ef
+2024-12-21 20:11:08 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a8ce3870-bf94-11ef-91f7-2cdb078575ef
+2024-12-21 20:11:08 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:11:08 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:11:08 DEBUG _windows.py:192: Thread started
+2024-12-21 20:11:08 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a8ce3870-bf94-11ef-91f7-2cdb078575ef
+2024-12-21 20:12:38 INFO log.py:21: Yasb
+2024-12-21 20:12:38 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:12:38 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:12:38.723795
+2024-12-21 20:12:39 INFO event_listener.py:52: Created named pipe yasb-df89ce75-bf94-11ef-819a-2cdb078575ef
+2024-12-21 20:12:39 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-df89ce75-bf94-11ef-819a-2cdb078575ef
+2024-12-21 20:12:39 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:12:39 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:12:39 DEBUG _windows.py:192: Thread started
+2024-12-21 20:12:39 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-df89ce75-bf94-11ef-819a-2cdb078575ef
+2024-12-21 20:13:06 INFO log.py:21: Yasb
+2024-12-21 20:13:06 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:13:07 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:13:07.029802
+2024-12-21 20:13:08 INFO event_listener.py:52: Created named pipe yasb-f069f858-bf94-11ef-b847-2cdb078575ef
+2024-12-21 20:13:08 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f069f858-bf94-11ef-b847-2cdb078575ef
+2024-12-21 20:13:08 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:13:08 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:13:08 DEBUG _windows.py:192: Thread started
+2024-12-21 20:13:08 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f069f858-bf94-11ef-b847-2cdb078575ef
+2024-12-21 20:14:22 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:15:31 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:16:00 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:16:30 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:17:05 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:17:08 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:17:15 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:17:19 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:17:30 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:17:35 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:17:40 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:19:12 ERROR config.py:116: The file 'C:\Users\adiai\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+CSSStyleRule: No start { of style declaration found: '.bluetooth-widget' [261:18: ]
+2024-12-21 20:19:12 ERROR config.py:116: The file 'C:\Users\adiai\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+CSSStyleRule: No start { of style declaration found: '.bluetooth-widget' [261:18: ]
+2024-12-21 20:19:12 ERROR config.py:116: The file 'C:\Users\adiai\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+CSSStyleRule: No start { of style declaration found: '.bluetooth-widget' [261:18: ]
+2024-12-21 20:19:13 ERROR config.py:116: The file 'C:\Users\adiai\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+CSSStyleRule: No start { of style declaration found: '.bluetooth-widget' [261:18: ]
+2024-12-21 20:19:13 ERROR config.py:116: The file 'C:\Users\adiai\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+CSSStyleRule: No start { of style declaration found: '.bluetooth-widget' [261:18: ]
+2024-12-21 20:19:25 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:19:57 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:20:06 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:20:27 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:21:46 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:22:02 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:23:07 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:23:07.020103
+2024-12-21 20:25:16 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:25:30 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:25:39 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:25:44 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:27:12 INFO log.py:21: Yasb
+2024-12-21 20:27:12 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:27:12 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:27:12.570688
+2024-12-21 20:27:13 INFO event_listener.py:52: Created named pipe yasb-e8624100-bf96-11ef-b5c1-2cdb078575ef
+2024-12-21 20:27:13 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e8624100-bf96-11ef-b5c1-2cdb078575ef
+2024-12-21 20:27:13 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:27:13 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:27:13 DEBUG _windows.py:192: Thread started
+2024-12-21 20:27:13 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-e8624100-bf96-11ef-b5c1-2cdb078575ef
+2024-12-21 20:32:01 INFO log.py:21: Yasb
+2024-12-21 20:32:01 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:32:02 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:32:02.039335
+2024-12-21 20:32:03 INFO event_listener.py:52: Created named pipe yasb-955750ca-bf97-11ef-aa06-2cdb078575ef
+2024-12-21 20:32:03 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-955750ca-bf97-11ef-aa06-2cdb078575ef
+2024-12-21 20:32:03 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:32:03 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:32:03 DEBUG _windows.py:192: Thread started
+2024-12-21 20:32:03 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-955750ca-bf97-11ef-aa06-2cdb078575ef
+2024-12-21 20:32:23 INFO log.py:21: Yasb
+2024-12-21 20:32:24 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:32:24 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:32:24.375487
+2024-12-21 20:32:25 INFO event_listener.py:52: Created named pipe yasb-a243125a-bf97-11ef-b68e-2cdb078575ef
+2024-12-21 20:32:25 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a243125a-bf97-11ef-b68e-2cdb078575ef
+2024-12-21 20:32:25 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:32:25 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:32:25 DEBUG _windows.py:192: Thread started
+2024-12-21 20:32:25 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a243125a-bf97-11ef-b68e-2cdb078575ef
+2024-12-21 20:33:24 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 37
+found unknown escape character 'W'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 55
+2024-12-21 20:33:24 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 37
+found unknown escape character 'W'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 55
+2024-12-21 20:33:24 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 37
+found unknown escape character 'W'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 55
+2024-12-21 20:33:37 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 37
+found unknown escape character 'W'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 55
+2024-12-21 20:33:37 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 37
+found unknown escape character 'W'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 55
+2024-12-21 20:33:38 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 37
+found unknown escape character 'W'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 55
+2024-12-21 20:33:38 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 37
+found unknown escape character 'W'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 55
+2024-12-21 20:33:38 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 37
+found unknown escape character 'W'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 55
+2024-12-21 20:33:39 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 37
+found unknown escape character 'W'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 55
+2024-12-21 20:33:39 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 37
+found unknown escape character 'W'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 55
+2024-12-21 20:33:53 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 37
+found unknown escape character 'W'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 55
+2024-12-21 20:33:53 ERROR bar_manager.py:53: Error loading config: while scanning a double-quoted scalar
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 37
+found unknown escape character 'W'
+  in "C:\Users\adiai\.config\yasb\config.yaml", line 203, column 55
+2024-12-21 20:34:09 INFO log.py:21: Yasb
+2024-12-21 20:34:10 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:34:10 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:34:10.245799
+2024-12-21 20:34:11 INFO event_listener.py:52: Created named pipe yasb-e15e3a9f-bf97-11ef-8153-2cdb078575ef
+2024-12-21 20:34:11 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e15e3a9f-bf97-11ef-8153-2cdb078575ef
+2024-12-21 20:34:11 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:34:11 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:34:11 DEBUG _windows.py:192: Thread started
+2024-12-21 20:34:11 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-e15e3a9f-bf97-11ef-8153-2cdb078575ef
+2024-12-21 20:36:05 INFO log.py:21: Yasb
+2024-12-21 20:36:06 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:36:06 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:36:06.288764
+2024-12-21 20:36:07 INFO event_listener.py:52: Created named pipe yasb-268cf6d1-bf98-11ef-b41e-2cdb078575ef
+2024-12-21 20:36:07 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-268cf6d1-bf98-11ef-b41e-2cdb078575ef
+2024-12-21 20:36:07 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:36:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:36:07 DEBUG _windows.py:192: Thread started
+2024-12-21 20:36:07 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-268cf6d1-bf98-11ef-b41e-2cdb078575ef
+2024-12-21 20:36:20 INFO log.py:21: Yasb
+2024-12-21 20:36:20 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:36:20 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:36:20.593743
+2024-12-21 20:36:21 INFO event_listener.py:52: Created named pipe yasb-2f07a00d-bf98-11ef-aa5c-2cdb078575ef
+2024-12-21 20:36:21 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-2f07a00d-bf98-11ef-aa5c-2cdb078575ef
+2024-12-21 20:36:21 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:36:21 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:36:21 DEBUG _windows.py:192: Thread started
+2024-12-21 20:36:21 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-2f07a00d-bf98-11ef-aa5c-2cdb078575ef
+2024-12-21 20:36:45 INFO log.py:21: Yasb
+2024-12-21 20:36:45 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:36:45 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:36:45.823271
+2024-12-21 20:36:46 INFO event_listener.py:52: Created named pipe yasb-3e1349c4-bf98-11ef-82dd-2cdb078575ef
+2024-12-21 20:36:46 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-3e1349c4-bf98-11ef-82dd-2cdb078575ef
+2024-12-21 20:36:46 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:36:46 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:36:46 DEBUG _windows.py:192: Thread started
+2024-12-21 20:36:47 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-3e1349c4-bf98-11ef-82dd-2cdb078575ef
+2024-12-21 20:37:18 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:37:22 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:44:47 INFO log.py:21: Yasb
+2024-12-21 20:44:47 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:44:47 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:44:47.522551
+2024-12-21 20:44:48 INFO event_listener.py:52: Created named pipe yasb-5d3bb955-bf99-11ef-95f4-2cdb078575ef
+2024-12-21 20:44:48 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5d3bb955-bf99-11ef-95f4-2cdb078575ef
+2024-12-21 20:44:48 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:44:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:44:48 DEBUG _windows.py:192: Thread started
+2024-12-21 20:44:48 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-5d3bb955-bf99-11ef-95f4-2cdb078575ef
+2024-12-21 20:45:33 INFO log.py:21: Yasb
+2024-12-21 20:45:34 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:45:34 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:45:34.357941
+2024-12-21 20:45:35 INFO event_listener.py:52: Created named pipe yasb-7924048a-bf99-11ef-b1d6-2cdb078575ef
+2024-12-21 20:45:35 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-7924048a-bf99-11ef-b1d6-2cdb078575ef
+2024-12-21 20:45:35 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:45:35 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:45:35 DEBUG _windows.py:192: Thread started
+2024-12-21 20:45:35 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-7924048a-bf99-11ef-b1d6-2cdb078575ef
+2024-12-21 20:46:34 INFO log.py:21: Yasb
+2024-12-21 20:46:34 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:46:34 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:46:34.978362
+2024-12-21 20:46:36 INFO event_listener.py:52: Created named pipe yasb-9d7f767a-bf99-11ef-aeb8-2cdb078575ef
+2024-12-21 20:46:36 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-9d7f767a-bf99-11ef-aeb8-2cdb078575ef
+2024-12-21 20:46:36 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:46:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:46:36 DEBUG _windows.py:192: Thread started
+2024-12-21 20:46:36 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-9d7f767a-bf99-11ef-aeb8-2cdb078575ef
+2024-12-21 20:47:37 INFO log.py:21: Yasb
+2024-12-21 20:47:38 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:47:38 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:47:38.092615
+2024-12-21 20:47:39 INFO event_listener.py:52: Created named pipe yasb-c2ddb7ec-bf99-11ef-afc1-2cdb078575ef
+2024-12-21 20:47:39 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c2ddb7ec-bf99-11ef-afc1-2cdb078575ef
+2024-12-21 20:47:39 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:47:39 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:47:39 DEBUG _windows.py:192: Thread started
+2024-12-21 20:47:39 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c2ddb7ec-bf99-11ef-afc1-2cdb078575ef
+2024-12-21 20:56:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 20:57:07 INFO tray.py:198: Reloading Application...
+2024-12-21 20:57:07 INFO log.py:21: Yasb
+2024-12-21 20:57:07 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:57:07 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:57:07.997980
+2024-12-21 20:57:09 INFO event_listener.py:52: Created named pipe yasb-168d3124-bf9b-11ef-b83c-2cdb078575ef
+2024-12-21 20:57:09 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-168d3124-bf9b-11ef-b83c-2cdb078575ef
+2024-12-21 20:57:09 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:57:09 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:57:09 DEBUG _windows.py:192: Thread started
+2024-12-21 20:57:09 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-168d3124-bf9b-11ef-b83c-2cdb078575ef
+2024-12-21 20:57:32 INFO tray.py:198: Reloading Application...
+2024-12-21 20:57:32 INFO log.py:21: Yasb
+2024-12-21 20:57:32 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:57:33 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:57:33.026125
+2024-12-21 20:57:34 INFO event_listener.py:52: Created named pipe yasb-257cccbf-bf9b-11ef-8621-2cdb078575ef
+2024-12-21 20:57:34 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-257cccbf-bf9b-11ef-8621-2cdb078575ef
+2024-12-21 20:57:34 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:57:34 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:57:34 DEBUG _windows.py:192: Thread started
+2024-12-21 20:58:09 INFO tray.py:198: Reloading Application...
+2024-12-21 20:58:10 INFO log.py:21: Yasb
+2024-12-21 20:58:10 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 20:58:10 INFO weather.py:158: Fetched new weather data at 2024-12-21 20:58:10.877437
+2024-12-21 20:58:12 INFO event_listener.py:52: Created named pipe yasb-3c126d98-bf9b-11ef-a27d-2cdb078575ef
+2024-12-21 20:58:12 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-3c126d98-bf9b-11ef-a27d-2cdb078575ef
+2024-12-21 20:58:12 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 20:58:12 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 20:58:12 DEBUG _windows.py:192: Thread started
+2024-12-21 20:58:12 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-3c126d98-bf9b-11ef-a27d-2cdb078575ef
+2024-12-21 21:03:16 INFO log.py:21: Yasb
+2024-12-21 21:03:17 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 21:03:17 INFO weather.py:158: Fetched new weather data at 2024-12-21 21:03:17.286497
+2024-12-21 21:03:18 INFO event_listener.py:52: Created named pipe yasb-f2b0a087-bf9b-11ef-8049-2cdb078575ef
+2024-12-21 21:03:18 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f2b0a087-bf9b-11ef-8049-2cdb078575ef
+2024-12-21 21:03:18 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 21:03:18 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 21:03:18 DEBUG _windows.py:192: Thread started
+2024-12-21 21:03:18 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f2b0a087-bf9b-11ef-8049-2cdb078575ef
+2024-12-21 21:03:27 INFO log.py:21: Yasb
+2024-12-21 21:03:28 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 21:03:28 INFO weather.py:158: Fetched new weather data at 2024-12-21 21:03:28.180188
+2024-12-21 21:03:29 INFO event_listener.py:52: Created named pipe yasb-f9292b4f-bf9b-11ef-b458-2cdb078575ef
+2024-12-21 21:03:29 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f9292b4f-bf9b-11ef-b458-2cdb078575ef
+2024-12-21 21:03:29 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 21:03:29 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 21:03:29 DEBUG _windows.py:192: Thread started
+2024-12-21 21:03:29 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f9292b4f-bf9b-11ef-b458-2cdb078575ef
+2024-12-21 21:05:20 INFO log.py:21: Yasb
+2024-12-21 21:05:21 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 21:05:21 INFO weather.py:158: Fetched new weather data at 2024-12-21 21:05:21.213592
+2024-12-21 21:05:22 INFO event_listener.py:52: Created named pipe yasb-3c8904e6-bf9c-11ef-b4d4-2cdb078575ef
+2024-12-21 21:05:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-3c8904e6-bf9c-11ef-b4d4-2cdb078575ef
+2024-12-21 21:05:22 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 21:05:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 21:05:22 DEBUG _windows.py:192: Thread started
+2024-12-21 21:05:22 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-3c8904e6-bf9c-11ef-b4d4-2cdb078575ef
+2024-12-21 21:06:21 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 21:06:39 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 21:06:42 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 21:06:47 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 21:07:01 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 21:07:06 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 21:07:11 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 21:08:18 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-21 21:12:23 DEBUG _windows.py:218: Stopping worker thread...
+2024-12-21 21:12:23 DEBUG _windows.py:201: Exiting thread
+2024-12-21 21:12:23 DEBUG _windows.py:75: Closing
+2024-12-21 21:13:52 INFO log.py:21: Yasb
+2024-12-21 21:13:53 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 21:13:53 INFO weather.py:158: Fetched new weather data at 2024-12-21 21:13:53.869080
+2024-12-21 21:13:56 INFO event_listener.py:52: Created named pipe yasb-6ecd6788-bf9d-11ef-8f38-2cdb078575ef
+2024-12-21 21:13:56 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6ecd6788-bf9d-11ef-8f38-2cdb078575ef
+2024-12-21 21:13:56 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 21:13:56 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 21:13:56 DEBUG _windows.py:192: Thread started
+2024-12-21 21:13:56 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-12-21 21:14:17 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-6ecd6788-bf9d-11ef-8f38-2cdb078575ef
+2024-12-21 21:14:28 INFO tray.py:198: Reloading Application...
+2024-12-21 21:14:29 INFO log.py:21: Yasb
+2024-12-21 21:14:29 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 21:14:30 INFO weather.py:158: Fetched new weather data at 2024-12-21 21:14:30.007181
+2024-12-21 21:14:31 INFO event_listener.py:52: Created named pipe yasb-83c5848b-bf9d-11ef-bf10-2cdb078575ef
+2024-12-21 21:14:31 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-83c5848b-bf9d-11ef-bf10-2cdb078575ef
+2024-12-21 21:14:31 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 21:14:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 21:14:31 DEBUG _windows.py:192: Thread started
+2024-12-21 21:14:31 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-83c5848b-bf9d-11ef-bf10-2cdb078575ef
+2024-12-21 21:24:30 INFO weather.py:158: Fetched new weather data at 2024-12-21 21:24:30.006996
+2024-12-21 21:24:53 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-21 21:24:53 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-21 21:24:58 INFO event_listener.py:52: Created named pipe yasb-83c5848b-bf9d-11ef-bf10-2cdb078575ef
+2024-12-21 21:24:58 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-83c5848b-bf9d-11ef-bf10-2cdb078575ef
+2024-12-21 21:24:59 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-83c5848b-bf9d-11ef-bf10-2cdb078575ef
+2024-12-21 21:28:49 INFO log.py:21: Yasb
+2024-12-21 21:28:49 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 21:28:50 INFO weather.py:158: Fetched new weather data at 2024-12-21 21:28:50.299632
+2024-12-21 21:28:53 INFO event_listener.py:52: Created named pipe yasb-85cb8cd8-bf9f-11ef-a268-2cdb078575ef
+2024-12-21 21:28:53 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-85cb8cd8-bf9f-11ef-a268-2cdb078575ef
+2024-12-21 21:28:53 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 21:28:53 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 21:28:53 DEBUG _windows.py:192: Thread started
+2024-12-21 21:28:54 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-85cb8cd8-bf9f-11ef-a268-2cdb078575ef
+2024-12-21 21:29:40 INFO log.py:21: Yasb
+2024-12-21 21:29:40 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 21:29:40 INFO weather.py:158: Fetched new weather data at 2024-12-21 21:29:40.981053
+2024-12-21 21:29:44 INFO event_listener.py:52: Created named pipe yasb-a402e87a-bf9f-11ef-972f-2cdb078575ef
+2024-12-21 21:29:44 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a402e87a-bf9f-11ef-972f-2cdb078575ef
+2024-12-21 21:29:44 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 21:29:44 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 21:29:44 DEBUG _windows.py:192: Thread started
+2024-12-21 21:29:44 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a402e87a-bf9f-11ef-972f-2cdb078575ef
+2024-12-21 21:39:40 INFO weather.py:158: Fetched new weather data at 2024-12-21 21:39:40.979591
+2024-12-21 21:49:40 INFO weather.py:158: Fetched new weather data at 2024-12-21 21:49:40.974980
+2024-12-21 21:59:40 INFO weather.py:158: Fetched new weather data at 2024-12-21 21:59:40.978795
+2024-12-21 22:09:40 INFO weather.py:158: Fetched new weather data at 2024-12-21 22:09:40.986370
+2024-12-21 22:19:40 INFO weather.py:158: Fetched new weather data at 2024-12-21 22:19:40.998470
+2024-12-21 22:29:40 INFO weather.py:158: Fetched new weather data at 2024-12-21 22:29:40.989371
+2024-12-21 22:34:47 INFO log.py:21: Yasb
+2024-12-21 22:34:48 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 22:34:48 INFO weather.py:158: Fetched new weather data at 2024-12-21 22:34:48.321416
+2024-12-21 22:34:50 INFO event_listener.py:52: Created named pipe yasb-bbe97b89-bfa8-11ef-bb24-2cdb078575ef
+2024-12-21 22:34:50 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-bbe97b89-bfa8-11ef-bb24-2cdb078575ef
+2024-12-21 22:34:50 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 22:34:50 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 22:34:50 DEBUG _windows.py:192: Thread started
+2024-12-21 22:34:50 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-bbe97b89-bfa8-11ef-bb24-2cdb078575ef
+2024-12-21 22:38:51 INFO tray.py:198: Reloading Application...
+2024-12-21 22:38:52 INFO log.py:21: Yasb
+2024-12-21 22:38:52 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-21 22:38:52 INFO weather.py:158: Fetched new weather data at 2024-12-21 22:38:52.550867
+2024-12-21 22:38:53 INFO event_listener.py:52: Created named pipe yasb-4d25639d-bfa9-11ef-b537-2cdb078575ef
+2024-12-21 22:38:53 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-4d25639d-bfa9-11ef-b537-2cdb078575ef
+2024-12-21 22:38:53 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-21 22:38:53 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-21 22:38:53 DEBUG _windows.py:192: Thread started
+2024-12-21 22:38:53 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-4d25639d-bfa9-11ef-b537-2cdb078575ef
+2024-12-21 22:48:52 INFO weather.py:158: Fetched new weather data at 2024-12-21 22:48:52.553297
+2024-12-21 22:58:52 INFO weather.py:158: Fetched new weather data at 2024-12-21 22:58:52.556721
+2024-12-21 23:08:52 INFO weather.py:158: Fetched new weather data at 2024-12-21 23:08:52.554634
+2024-12-21 23:18:52 INFO weather.py:158: Fetched new weather data at 2024-12-21 23:18:52.555310
+2024-12-21 23:28:52 INFO weather.py:158: Fetched new weather data at 2024-12-21 23:28:52.548598
+2024-12-21 23:38:52 INFO weather.py:158: Fetched new weather data at 2024-12-21 23:38:52.549511
+2024-12-21 23:48:52 INFO weather.py:158: Fetched new weather data at 2024-12-21 23:48:52.563444
+2024-12-21 23:58:52 INFO weather.py:158: Fetched new weather data at 2024-12-21 23:58:52.557125
+2024-12-22 00:08:52 INFO weather.py:158: Fetched new weather data at 2024-12-22 00:08:52.555861
+2024-12-22 00:18:52 INFO weather.py:158: Fetched new weather data at 2024-12-22 00:18:52.549616
+2024-12-22 12:35:58 INFO log.py:21: Yasb
+2024-12-22 12:35:59 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-22 12:36:02 INFO weather.py:158: Fetched new weather data at 2024-12-22 12:36:02.785325
+2024-12-22 12:36:06 INFO event_listener.py:52: Created named pipe yasb-420f3a7b-c01e-11ef-af44-2cdb078575ef
+2024-12-22 12:36:06 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-420f3a7b-c01e-11ef-af44-2cdb078575ef
+2024-12-22 12:36:06 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-22 12:36:06 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-22 12:36:06 DEBUG _windows.py:192: Thread started
+2024-12-22 12:36:06 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-12-22 12:36:26 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-420f3a7b-c01e-11ef-af44-2cdb078575ef
+2024-12-22 12:43:09 INFO log.py:21: Yasb
+2024-12-22 12:43:09 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-22 12:43:09 INFO weather.py:158: Fetched new weather data at 2024-12-22 12:43:09.685188
+2024-12-22 12:43:11 INFO event_listener.py:52: Created named pipe yasb-3fb4d897-c01f-11ef-ad24-2cdb078575ef
+2024-12-22 12:43:11 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-3fb4d897-c01f-11ef-ad24-2cdb078575ef
+2024-12-22 12:43:11 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-22 12:43:11 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-22 12:43:11 DEBUG _windows.py:192: Thread started
+2024-12-22 12:43:12 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-3fb4d897-c01f-11ef-ad24-2cdb078575ef
+2024-12-22 12:43:22 INFO log.py:21: Yasb
+2024-12-22 12:43:22 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-22 12:43:22 INFO weather.py:158: Fetched new weather data at 2024-12-22 12:43:22.531984
+2024-12-22 12:43:24 INFO event_listener.py:52: Created named pipe yasb-470b9915-c01f-11ef-8ed7-2cdb078575ef
+2024-12-22 12:43:24 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-470b9915-c01f-11ef-8ed7-2cdb078575ef
+2024-12-22 12:43:24 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-22 12:43:24 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-22 12:43:24 DEBUG _windows.py:192: Thread started
+2024-12-22 12:43:24 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-470b9915-c01f-11ef-8ed7-2cdb078575ef
+2024-12-22 12:43:49 INFO log.py:21: Yasb
+2024-12-22 12:43:50 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-22 12:43:50 INFO weather.py:158: Fetched new weather data at 2024-12-22 12:43:50.402034
+2024-12-22 12:43:52 INFO event_listener.py:52: Created named pipe yasb-57c36e30-c01f-11ef-9e8b-2cdb078575ef
+2024-12-22 12:43:52 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-57c36e30-c01f-11ef-9e8b-2cdb078575ef
+2024-12-22 12:43:52 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-22 12:43:52 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-22 12:43:52 DEBUG _windows.py:192: Thread started
+2024-12-22 12:43:52 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-57c36e30-c01f-11ef-9e8b-2cdb078575ef
+2024-12-22 12:44:00 INFO log.py:21: Yasb
+2024-12-22 12:44:00 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-22 12:44:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 12:44:00.603487
+2024-12-22 12:44:01 INFO event_listener.py:52: Created named pipe yasb-5daa90b5-c01f-11ef-ac58-2cdb078575ef
+2024-12-22 12:44:01 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5daa90b5-c01f-11ef-ac58-2cdb078575ef
+2024-12-22 12:44:02 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-22 12:44:02 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-22 12:44:02 DEBUG _windows.py:192: Thread started
+2024-12-22 12:44:02 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-5daa90b5-c01f-11ef-ac58-2cdb078575ef
+2024-12-22 12:44:25 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-22 12:44:40 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-22 12:44:44 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-22 12:44:49 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-22 12:44:52 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-22 12:47:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-22 12:51:30 INFO log.py:21: Yasb
+2024-12-22 12:51:30 ERROR main.py:73: Another instance of the YASB is already running.
+2024-12-22 12:54:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 12:54:00.600837
+2024-12-22 12:59:03 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-12-22 13:04:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 13:04:00.600895
+2024-12-22 13:14:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 13:14:00.596742
+2024-12-22 13:24:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 13:24:00.597691
+2024-12-22 13:34:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 13:34:00.609373
+2024-12-22 13:44:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 13:44:00.603839
+2024-12-22 13:54:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 13:54:00.597332
+2024-12-22 14:04:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 14:04:00.607672
+2024-12-22 14:14:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 14:14:00.599819
+2024-12-22 14:24:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 14:24:00.611702
+2024-12-22 14:34:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 14:34:00.596769
+2024-12-22 14:44:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 14:44:00.608201
+2024-12-22 14:54:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 14:54:00.601305
+2024-12-22 15:04:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 15:04:00.610592
+2024-12-22 15:14:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 15:14:00.606482
+2024-12-22 15:24:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 15:24:00.609051
+2024-12-22 15:34:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 15:34:00.596718
+2024-12-22 15:44:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 15:44:00.608247
+2024-12-22 15:54:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 15:54:00.606723
+2024-12-22 16:04:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 16:04:00.603169
+2024-12-22 16:14:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 16:14:00.599444
+2024-12-22 16:24:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 16:24:00.604916
+2024-12-22 16:34:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 16:34:00.602800
+2024-12-22 16:44:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 16:44:00.600926
+2024-12-22 16:54:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 16:54:00.598979
+2024-12-22 17:04:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 17:04:00.606050
+2024-12-22 17:14:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 17:14:00.602006
+2024-12-22 17:24:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 17:24:00.596657
+2024-12-22 17:34:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 17:34:00.599595
+2024-12-22 17:44:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 17:44:00.598523
+2024-12-22 17:54:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 17:54:00.602765
+2024-12-22 18:04:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 18:04:00.598967
+2024-12-22 18:14:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 18:14:00.609762
+2024-12-22 18:24:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 18:24:00.600611
+2024-12-22 18:33:02 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-22 18:33:02 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-22 18:33:07 INFO event_listener.py:52: Created named pipe yasb-5daa90b5-c01f-11ef-ac58-2cdb078575ef
+2024-12-22 18:33:07 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5daa90b5-c01f-11ef-ac58-2cdb078575ef
+2024-12-22 18:33:07 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-12-22 18:34:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 18:34:00.598645
+2024-12-22 18:44:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 18:44:00.602341
+2024-12-22 18:53:10 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-5daa90b5-c01f-11ef-ac58-2cdb078575ef
+2024-12-22 18:54:00 INFO weather.py:158: Fetched new weather data at 2024-12-22 18:54:00.600272
+2024-12-22 18:58:44 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-22 18:58:44 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-22 19:01:10 INFO log.py:21: Yasb
+2024-12-22 19:01:16 DEBUG win32.py:58: Looking up time zone info from registry
+2024-12-22 19:01:26 INFO weather.py:158: Fetched new weather data at 2024-12-22 19:01:26.935825
+2024-12-22 19:01:31 INFO event_listener.py:52: Created named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:01:31 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:01:31 INFO watcher.py:39: Created file watcher for path C:\Users\adiai\.config\yasb
+2024-12-22 19:01:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-12-22 19:01:31 DEBUG _windows.py:192: Thread started
+2024-12-22 19:01:32 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:03:16 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-22 19:03:16 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-22 19:03:21 INFO event_listener.py:52: Created named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:03:21 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:03:22 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:11:26 INFO weather.py:158: Fetched new weather data at 2024-12-22 19:11:26.921091
+2024-12-22 19:21:26 INFO weather.py:158: Fetched new weather data at 2024-12-22 19:21:26.914845
+2024-12-22 19:31:26 INFO weather.py:158: Fetched new weather data at 2024-12-22 19:31:26.915570
+2024-12-22 19:36:01 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-22 19:36:01 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-22 19:36:06 INFO event_listener.py:52: Created named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:36:06 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:36:06 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-12-22 19:36:17 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:40:40 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-22 19:40:40 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-22 19:40:45 INFO event_listener.py:52: Created named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:40:45 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:40:46 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:41:20 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-22 19:41:20 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-22 19:41:25 INFO event_listener.py:52: Created named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:41:25 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:41:25 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-12-22 19:41:26 INFO weather.py:158: Fetched new weather data at 2024-12-22 19:41:26.918402
+2024-12-22 19:42:25 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:48:35 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-22 19:48:35 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-22 19:48:40 INFO event_listener.py:52: Created named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:48:40 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:48:41 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 19:51:26 INFO weather.py:158: Fetched new weather data at 2024-12-22 19:51:26.920819
+2024-12-22 20:01:04 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-22 20:01:04 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-22 20:01:09 INFO event_listener.py:52: Created named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 20:01:09 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 20:01:10 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 20:01:26 INFO weather.py:158: Fetched new weather data at 2024-12-22 20:01:26.909309
+2024-12-22 20:03:59 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-12-22 20:03:59 INFO event_listener.py:93: Attempting to reconnect...
+2024-12-22 20:04:04 INFO event_listener.py:52: Created named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 20:04:04 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 20:04:05 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1a05502b-c054-11ef-bf03-2cdb078575ef
+2024-12-22 20:11:26 INFO weather.py:158: Fetched new weather data at 2024-12-22 20:11:26.913137

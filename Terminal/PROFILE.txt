@@ -1,0 +1,12 @@
+clear
+
+# PSReadLine initialization
+Import-Module PSReadLine
+Set-PSReadLineOption -PredictionViewStyle ListView
+
+# The Fuck initialization
+
+
+
+# Oh-My-Post initialization
+oh-my-posh init pwsh --config 'C:\Users\adiai\AppData\Local\Programs\oh-my-posh\themes\uew.omp.json' | Invoke-Expression
