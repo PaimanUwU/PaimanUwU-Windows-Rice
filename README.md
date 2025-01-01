@@ -1,12 +1,22 @@
+# Welcome :D
+### Paiman's Windows Rice Repo
+
+
+
+-------------------------------------------------------------------
 ## install choclatey
 
-``winget install --id=Chocolatey.Chocolatey  -e```
+```
+winget install --id=Chocolatey.Chocolatey  -e
+```
 
 -------------------------------------------------------------------
 ## install komoberi
 
 ```
 winget install LGUG2Z.whkd
+```
+```
 winget install LGUG2Z.komorebi
 ```
 
@@ -14,6 +24,8 @@ after install add komorebi into system variable PATH
 
 ```
 komorebic start --whkd
+```
+```
 komorebic enable-autostart
 ```
 
