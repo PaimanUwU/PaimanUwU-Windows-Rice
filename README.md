@@ -1,1 +1,0 @@
-# Paiman Windows Rice
