@@ -63,6 +63,12 @@ choco install mingw
 refreshenv
 ```
 
+installing nvim plugin
+```
+winget install fzf
+Paiman Logo Colored.png
+```
+
 -------------------------------------------------------------------
 ## install terminal plugin
 
