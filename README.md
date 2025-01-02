@@ -101,6 +101,11 @@ refreshenv
 -------------------------------------------------------------------
 ## install terminal plugin
 
+Install terminal
+```
+winget install --id Microsoft.WindowsTerminal -e
+```
+After install terminal
 ```
 winget install JanDeDobbeleer.OhMyPosh -s winget
 ```
@@ -121,6 +126,18 @@ winget install --id=nepnep.neofetch-win  -e
 > terminal backup restore path (win+r): `%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState`
 
 > terminal profile command: `nvim $PROFILE`
+
+Terminal Profile:
+```
+clear
+
+# PSReadLine initialization
+Import-Module PSReadLine
+Set-PSReadLineOption -PredictionViewStyle ListView
+
+# Oh-My-Post initialization
+oh-my-posh init pwsh --config 'C:\Users\adiai\AppData\Local\Programs\oh-my-posh\themes\uew.omp.json' | Invoke-Expression
+```
 
 -------------------------------------------------------------------
 ## install powertoys
