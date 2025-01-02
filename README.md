@@ -3,15 +3,20 @@
 
 > all you need to do is open your command line of choice and copy these command
 
+[image of a desktop goes here]
+
+
 ### Color Scheme
+
+```
 "name": "Paiman's Theme",
-"background": `#24273A`,
-"black": `#494D64`,
-"blue": `#8AADF4`,
-"brightBlack": `#5B6078`,
-"brightBlue": `#8AADF4`,
-"brightCyan": `#8BD5CA`,
-"brightGreen": `#A6DA95`,
+"background": "#24273A",
+"black": "#494D64",
+"blue": "#8AADF4",
+"brightBlack": "#5B6078",
+"brightBlue": "#8AADF4",
+"brightCyan": "#8BD5CA",
+"brightGreen": "#A6DA95",
 "brightPurple": "#F5BDE6",
 "brightRed": "#ED8796",
 "brightWhite": "#A5ADCB",
@@ -25,18 +30,18 @@
 "selectionBackground": "#5B6078",
 "white": "#B8C0E0",
 "yellow": "#EED49F"
-
+```
 
 
 -------------------------------------------------------------------
-## install choclatey
+## install chocolatey
 
 ```
 winget install --id=Chocolatey.Chocolatey  -e
 ```
 
 -------------------------------------------------------------------
-## install komoberi
+## install komorebi
 
 ```
 winget install LGUG2Z.whkd
@@ -84,7 +89,8 @@ winget install --id=equalsraf.win32yank  -e
 winget install --id=cURL.cURL  -e
 ```
 
-after install 
+after install
+
 ```
 choco install mingw
 ```
