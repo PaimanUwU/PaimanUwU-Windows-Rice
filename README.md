@@ -3,8 +3,8 @@
 
 > all you need to do is open your command line of choice and copy these command
 
-[image of a desktop goes here]
-
+![image of a desktop goes here]()
+![image of a desktop with vim open goes here]()
 
 ### Color Scheme
 
