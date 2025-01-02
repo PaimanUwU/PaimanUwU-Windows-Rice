@@ -32,5 +32,7 @@
 "yellow": "#EED49F"
 ```
 
+### Installation
 
+[Installation Guide](https://github.com/PaimanUwU/PaimanUwU-Windows-Rice/blob/main/INSTALLATION.md)
 
