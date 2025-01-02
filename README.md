@@ -3,8 +3,8 @@
 
 > all you need to do is open your command line of choice and copy these command
 
-![image of a desktop goes here]()
-![image of a desktop with vim open goes here]()
+![image of a desktop goes here](https://github.com/PaimanUwU/PaimanUwU-Windows-Rice/blob/main/assets/Screenshots/Screenshot%202025-01-02%20084822.png)
+![image of a desktop with vim open goes here](https://github.com/PaimanUwU/PaimanUwU-Windows-Rice/blob/main/assets/Screenshots/Screenshot%202025-01-02%20084920.png)
 
 ### Color Scheme
 
