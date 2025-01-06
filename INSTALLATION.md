@@ -127,5 +127,20 @@ winget install topnotify -s msstore
 -------------------------------------------------------------------
 ## install code dependencies
 
-### TypeScript: 
+### TypeScript:
+```
+winget install -e --id OpenJS.NodeJS.LTS
+```
 
+-------------------------------------------------------------------
+## install spotify 
+
+### spotify:
+```
+winget install --id=Spotify.Spotify  -e
+```
+
+### catpuccin theme:
+```
+iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
+```
