@@ -3,8 +3,8 @@
 
 > these are my go to theme for the year 2025, Feel free to use the Rice also. And sorry if the configuration looks bad (I tried)
 
-![image of a desktop goes here](https://github.com/PaimanUwU/PaimanUwU-Windows-Rice/blob/main/assets/Screenshots/Screenshot%202025-01-02%20084822.png)
-![image of a desktop with vim open goes here](https://github.com/PaimanUwU/PaimanUwU-Windows-Rice/blob/main/assets/Screenshots/Screenshot%202025-01-02%20084920.png)
+![image of a desktop goes here](https://github.com/PaimanUwU/PaimanUwU-Windows-Rice/blob/main/.assets/Screenshots/Screenshot%202025-01-02%20084822.png?raw=true)
+![image of a desktop with vim open goes here](https://github.com/PaimanUwU/PaimanUwU-Windows-Rice/blob/main/.assets/Screenshots/Screenshot%202025-01-02%20084920.png?raw=true)
 
 ### Color Scheme
 
