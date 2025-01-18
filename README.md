@@ -3,8 +3,8 @@
 
 > these are my go to theme for the year 2025, Feel free to use the Rice also. And sorry if the configuration looks bad (I tried)
 
-![image of a desktop goes here](.resource/Screenshots/Screenshot 2025-01-02 084822.png)
-![image of a desktop with vim open goes here](.resource/Screenshots/Screenshot 2025-01-02 084920.png)
+![image of a desktop goes here](resource/Screenshots/Screenshot 2025-01-02 084822.png)
+![image of a desktop with vim open goes here](resource/Screenshots/Screenshot 2025-01-02 084920.png)
 
 ### Color Scheme
 
